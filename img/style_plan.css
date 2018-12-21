@@ -1,0 +1,13 @@
+.block {
+    float:left;
+    
+}
+
+.left, .right {
+    width: 15%;
+    border-style:solid;
+}
+
+.center {
+    width: 70%;
+}

@@ -1,0 +1,139 @@
+#ecran1
+{
+    position: relative;
+    height:740px; /*modifier*/
+    width:1280px; /*modifier*/
+    background-image:url(img/images/header.jpg);
+    background-size:cover;
+}
+
+#image1
+{
+    position: relative;
+    height: 532px;
+    width: 252px;
+    top: 104px;
+    bottom: 104px;
+    left: 970px;
+}
+ 
+#left1
+{
+    position:absolute;
+    height: 350px;
+    width:650px;
+    top:200px;
+    bottom:100px;
+    /*border: 3px solid blue;*/
+    left: 70px;
+}
+
+#text11
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.button
+{
+    text-align:center;
+    font-size:24px;
+    border: none;
+    padding: 12px 28px;
+    color:white;
+}
+
+
+#button11{
+    position: relative;
+    background-color: #008CBA;
+}
+#button12{
+    position: relative;
+    left: 50px;
+    background-color:transparent;
+    border: 2px solid white;
+}
+
+#p.text12 {display:inline-block;
+padding-block-start: 30px;
+white-space: inherit;
+border-style:solid;}
+
+#ecran2
+{
+    height:370px; /*modifier*/
+    width:1280px;
+    background-color: white;
+    /*position: absolute;*/
+    
+}
+
+#table2
+{
+    width: 90%;
+    margin-block-start: 20px;;
+    /*padding-block-end: 80px;*/
+    /*padding-left: 5%;*/
+    /*position: absolute;*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    /* align-self:center; */
+
+}
+
+
+th,td
+{
+    padding: 10px;
+    text-align: left;
+    border: solid ;
+    vertical-align: top;
+}
+
+#ecran3
+{
+    height:350px;
+    width: 1280px;
+    background-color: #008CBA;
+    text-align: center;
+    padding-block-start: 50px;
+    color: white;
+}
+
+#ecran4
+{
+    position: absolute;
+    height: 740px;
+    width: 1280px;
+    background-color: white;
+}
+
+#image4
+{
+    position: absolute;
+    height: 508px;
+    width: 587px;
+    padding-block-start: 110px;
+    left: 50px;
+
+}
+
+#table4
+{
+    position: relative;
+    height: 500px;
+    width: 490px;
+    
+    left: 800px;
+    
+    
+}
+
+table 
+{
+    border:solid ;
+}
